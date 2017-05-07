@@ -1,0 +1,20 @@
+/* line 1, ../sass/main.scss */
+body {
+  background-color: #0A0713;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* line 7, ../sass/main.scss */
+body .container {
+  display: flex;
+  height: 600px;
+  width: 800px;
+}
+/* line 12, ../sass/main.scss */
+body .container .slack {
+  position: relative;
+  display: block;
+  margin: auto;
+  width: 70%;
+}
