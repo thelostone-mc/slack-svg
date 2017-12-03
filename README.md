@@ -1,2 +1,2 @@
 # slack-svg
-Demo : [SVG Playground](https://adityaanandmc.github.io/slack-svg/)
+Demo : [SVG Playground](https://thelostone-mc.github.io/slack-svg/)
